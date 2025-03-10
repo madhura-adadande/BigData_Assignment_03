@@ -1,0 +1,1001 @@
+Rank by filter,World rank,City,Average travel time per 6 mi,Change from 2023,Congestion level %,Time lost per year at rush hours
+1,1,"Barranquilla
+Colombia",34 min 51 s,- 19 s,45%,126 hours
+2,2,"Kolkata
+India",33 min 21 s,+ 9 s,32%,106 hours
+3,3,"Bengaluru
+India",32 min 59 s,+ 48 s,38%,113 hours
+4,4,"Pune
+India",32 min 13 s,- 57 s,34%,104 hours
+5,5,"London
+United Kingdom",32 min 8 s,+ 38 s,32%,109 hours
+6,6,"Kyoto
+Japan",32 min 7 s,+ 19 s,39%,91 hours
+7,7,"Lima
+Peru",32 min 3 s,+ 1 min 26 s,47%,150 hours
+8,8,"Davao City
+Philippines",31 min 50 s,- 28 s,49%,131 hours
+9,9,"Trujillo
+Peru",31 min 48 s,+ 28 s,34%,99 hours
+10,10,"Dublin
+Ireland",31 min 37 s,+ 38 s,47%,150 hours
+11,11,"Kumamoto
+Japan",31 min 29 s,- 9 s,49%,144 hours
+12,12,"Bandung
+Indonesia",31 min 29 s,+ 28 s,48%,104 hours
+13,13,"Tainan
+Taiwan",31 min 21 s,+ 57 s,28%,73 hours
+14,14,"Manila
+Philippines",31 min 3 s,- 28 s,42%,123 hours
+15,15,"Medan
+Indonesia",30 min 56 s,+ 9 s,40%,107 hours
+16,16,"Arequipa
+Peru",30 min 54 s,- 9 s,47%,121 hours
+17,17,"Mexico City
+Mexico",30 min 47 s,+ 57 s,52%,147 hours
+18,18,"Hyderabad
+India",30 min 24 s,no change,28%,82 hours
+19,19,"Fukuoka
+Japan",30 min 13 s,+ 19 s,42%,113 hours
+20,20,"Cartagena
+Colombia",30 min 10 s,- 19 s,40%,113 hours
+21,21,"Barcelona
+Spain",30 min 8 s,+ 48 s,26%,84 hours
+22,22,"Bucharest
+Romania",30 min 4 s,+ 19 s,48%,145 hours
+23,23,"Hiroshima
+Japan",30 min 3 s,+ 9 s,43%,110 hours
+24,24,"Bordeaux
+France",30 min 3 s,no change,33%,109 hours
+25,25,"New York, NY
+United States of America",30 min 1 s,+ 38 s,30%,94 hours
+26,26,"Caloocan
+Philippines",29 min 40 s,- 19 s,41%,108 hours
+27,27,"Sendai
+Japan",29 min 32 s,no change,43%,107 hours
+28,28,"Sapporo
+Japan",29 min 32 s,+ 28 s,35%,86 hours
+29,29,"Ha Noi
+Vietnam",29 min 25 s,+ 28 s,33%,111 hours
+30,30,"Brussels
+Belgium",29 min 19 s,+ 28 s,33%,114 hours
+31,31,"Chennai
+India",29 min 17 s,+ 9 s,29%,91 hours
+32,32,"Ho Chi Minh
+Vietnam",29 min 11 s,+ 38 s,30%,93 hours
+33,33,"Buenos Aires
+Argentina",29 min 6 s,no change,29%,87 hours
+34,34,"Kaohsiung
+Taiwan",29 min 2 s,+ 9 s,26%,63 hours
+35,35,"Rome
+Italy",28 min 57 s,+ 28 s,35%,100 hours
+36,36,"Puebla
+Mexico",28 min 55 s,+ 57 s,30%,71 hours
+37,37,"Athens
+Greece",28 min 37 s,+ 28 s,34%,107 hours
+38,38,"Vienna
+Austria",28 min 37 s,+ 48 s,30%,92 hours
+39,39,"Mumbai
+India",28 min 25 s,- 19 s,35%,99 hours
+40,40,"Bogota
+Colombia",28 min 22 s,+ 9 s,45%,115 hours
+41,41,"Cali
+Colombia",28 min 18 s,- 28 s,43%,109 hours
+42,42,"Taipei
+Taiwan",28 min 4 s,+ 38 s,33%,93 hours
+43,43,"Ahmedabad
+India",28 min 3 s,- 28 s,23%,71 hours
+44,44,"Wroclaw
+Poland",27 min 56 s,- 19 s,39%,104 hours
+45,45,"Paris
+France",27 min 53 s,+ 19 s,30%,98 hours
+46,46,"Helsinki
+Finland",27 min 40 s,+ 28 s,30%,84 hours
+47,47,"Fortaleza
+Brazil",27 min 39 s,+ 28 s,37%,95 hours
+48,48,"Rosario
+Argentina",27 min 37 s,- 9 s,26%,67 hours
+49,49,"Berlin
+Germany",27 min 32 s,+ 19 s,29%,81 hours
+50,50,"Ernakulam
+India",27 min 31 s,+ 57 s,32%,85 hours
+51,51,"Turin
+Italy",27 min 30 s,+ 19 s,33%,96 hours
+52,52,"Jaipur
+India",27 min 29 s,+ 19 s,32%,80 hours
+53,53,"Palembang
+Indonesia",26 min 57 s,+ 28 s,41%,91 hours
+54,54,"Curitiba
+Brazil",26 min 49 s,+ 19 s,35%,104 hours
+55,55,"Medellin
+Colombia",26 min 44 s,- 19 s,43%,112 hours
+56,56,"Florence
+Italy",26 min 40 s,+ 9 s,35%,97 hours
+57,57,"Naha
+Japan",26 min 31 s,+ 38 s,41%,106 hours
+58,58,"Edinburgh
+United Kingdom",26 min 27 s,+ 19 s,40%,91 hours
+59,59,"Plovdiv
+Bulgaria",26 min 21 s,no change,48%,103 hours
+60,60,"Montevideo
+Uruguay",26 min 20 s,+ 48 s,25%,62 hours
+61,61,"Cordoba
+Argentina",26 min 19 s,+ 9 s,23%,58 hours
+62,62,"Tokyo
+Japan",26 min 18 s,+ 38 s,30%,79 hours
+63,63,"Marseille
+France",26 min 17 s,+ 28 s,31%,90 hours
+64,64,"Belo Horizonte
+Brazil",26 min 13 s,+ 19 s,39%,102 hours
+65,65,"Guadalajara
+Mexico",26 min 12 s,+ 38 s,42%,99 hours
+66,66,"Sao Paulo
+Brazil",26 min 10 s,no change,42%,107 hours
+67,67,"Milan
+Italy",26 min 10 s,+ 19 s,33%,96 hours
+68,68,"Poznan
+Poland",26 min 8 s,+ 9 s,40%,103 hours
+69,69,"Vancouver
+Canada",26 min 7 s,+ 48 s,35%,83 hours
+70,70,"Surabaya
+Indonesia",26 min 3 s,+ 9 s,31%,73 hours
+71,71,"Port Said
+Egypt",25 min 43 s,no change,9%,29 hours
+72,72,"Taichung
+Taiwan",25 min 42 s,+ 19 s,29%,69 hours
+73,73,"George Town
+Malaysia",25 min 41 s,+ 9 s,40%,72 hours
+74,74,"Budapest
+Hungary",25 min 38 s,+ 57 s,46%,106 hours
+75,75,"San Francisco, CA
+United States of America",25 min 37 s,+ 28 s,32%,81 hours
+76,76,"Nagoya
+Japan",25 min 36 s,+ 19 s,34%,72 hours
+77,77,"Sofia
+Bulgaria",25 min 34 s,+ 19 s,39%,100 hours
+78,78,"Frankfurt am Main
+Germany",25 min 32 s,+ 28 s,30%,77 hours
+79,79,"Leon
+Mexico",25 min 32 s,no change,28%,69 hours
+80,80,"Zurich
+Switzerland",25 min 23 s,+ 9 s,33%,90 hours
+81,81,"Valencia
+Spain",25 min 23 s,+ 38 s,24%,60 hours
+82,82,"Nicosia
+Cyprus",25 min 20 s,+ 9 s,41%,95 hours
+83,83,"Copenhagen
+Denmark",25 min 13 s,+ 9 s,26%,79 hours
+84,84,"Lodz
+Poland",25 min 12 s,+ 19 s,48%,107 hours
+85,85,"Porto Alegre
+Brazil",25 min 12 s,+ 28 s,42%,100 hours
+86,86,"Nairobi
+Kenya",25 min 6 s,+ 9 s,38%,91 hours
+87,87,"Geneva
+Switzerland",25 min 5 s,+ 9 s,39%,107 hours
+88,88,"Leipzig
+Germany",24 min 49 s,+ 19 s,37%,82 hours
+89,89,"Graz
+Austria",24 min 47 s,+ 48 s,37%,83 hours
+90,90,"Jakarta
+Indonesia",24 min 38 s,+ 9 s,43%,104 hours
+91,91,"Recife
+Brazil",24 min 37 s,no change,45%,105 hours
+92,92,"Nice
+France",24 min 36 s,+ 38 s,29%,81 hours
+93,93,"Hamburg
+Germany",24 min 31 s,+ 48 s,34%,78 hours
+94,94,"Liverpool
+United Kingdom",24 min 22 s,+ 48 s,35%,83 hours
+95,95,"Toronto
+Canada",24 min 20 s,+ 1 min 17 s,31%,74 hours
+96,96,"Nantes
+France",24 min 14 s,+ 9 s,32%,93 hours
+97,97,"Salzburg
+Austria",24 min 10 s,+ 28 s,37%,75 hours
+98,98,"Gaziantep
+Turkey",24 min 7 s,- 9 s,31%,63 hours
+99,99,"Leicester
+United Kingdom",24 min,+ 19 s,39%,93 hours
+100,100,"Manchester
+United Kingdom",23 min 54 s,+ 38 s,32%,91 hours
+101,101,"Madrid
+Spain",23 min 52 s,+ 9 s,21%,62 hours
+102,102,"Hat Yai
+Thailand",23 min 22 s,+ 19 s,40%,74 hours
+103,103,"Prague
+Czechia",23 min 18 s,+ 48 s,39%,89 hours
+104,104,"Vilnius
+Lithuania",23 min 12 s,no change,45%,109 hours
+105,105,"Krakow
+Poland",23 min 10 s,- 19 s,41%,94 hours
+106,106,"Cape Town
+South Africa",23 min 9 s,+ 38 s,36%,70 hours
+107,107,"Sheffield
+United Kingdom",23 min 5 s,+ 19 s,39%,88 hours
+108,108,"Munich
+Germany",23 min 3 s,+ 19 s,32%,78 hours
+109,109,"Lisbon
+Portugal",22 min 57 s,no change,26%,77 hours
+110,110,"Catania
+Italy",22 min 55 s,+ 28 s,39%,91 hours
+111,111,"Dusseldorf
+Germany",22 min 55 s,+ 19 s,30%,64 hours
+112,112,"Nuremberg
+Germany",22 min 53 s,+ 9 s,40%,81 hours
+113,113,"Lyon
+France",22 min 51 s,+ 57 s,31%,74 hours
+114,114,"Stuttgart
+Germany",22 min 46 s,+ 28 s,28%,63 hours
+115,115,"Riga
+Latvia",22 min 44 s,- 1 min 26 s,35%,91 hours
+116,116,"Chiang Mai
+Thailand",22 min 42 s,+ 28 s,37%,70 hours
+117,117,"Halifax
+Canada",22 min 42 s,+ 48 s,30%,80 hours
+118,118,"Sydney
+Australia",22 min 42 s,- 9 s,28%,73 hours
+119,119,"Antalya
+Turkey",22 min 41 s,- 9 s,34%,82 hours
+120,120,"Hong Kong
+Hong Kong",22 min 41 s,- 48 s,30%,69 hours
+121,121,"Warsaw
+Poland",22 min 36 s,- 38 s,34%,87 hours
+122,122,"New Delhi
+India",22 min 35 s,+ 9 s,33%,74 hours
+123,123,"Glasgow
+United Kingdom",22 min 30 s,+ 9 s,31%,70 hours
+124,124,"Bydgoszcz
+Poland",22 min 19 s,- 28 s,38%,82 hours
+125,125,"Gdansk, Gdynia and Sopot
+Poland",22 min 18 s,+ 19 s,35%,84 hours
+126,126,"Santiago
+Chile",22 min 17 s,+ 9 s,36%,97 hours
+127,127,"Nottingham
+United Kingdom",22 min 17 s,+ 38 s,35%,80 hours
+128,128,"Le Havre
+France",22 min 13 s,+ 9 s,26%,53 hours
+129,129,"Winnipeg
+Canada",22 min 13 s,+ 19 s,26%,72 hours
+130,130,"Osaka
+Japan",22 min 10 s,+ 19 s,32%,64 hours
+131,131,"Thessaloniki
+Greece",22 min 6 s,+ 2 min 15 s,34%,77 hours
+132,132,"Vitoria-Gasteiz
+Spain",22 min 6 s,+ 19 s,22%,43 hours
+133,133,"Bristol
+United Kingdom",22 min 1 s,+ 9 s,34%,84 hours
+134,134,"Varna
+Bulgaria",21 min 55 s,no change,35%,78 hours
+135,135,"Szczecin
+Poland",21 min 53 s,no change,38%,81 hours
+136,136,"Amsterdam
+Netherlands",21 min 49 s,+ 1 min 17 s,26%,58 hours
+137,137,"Banqiao
+Taiwan",21 min 47 s,+ 28 s,27%,64 hours
+138,138,"Pretoria
+South Africa",21 min 44 s,no change,34%,69 hours
+139,139,"Kota Bharu
+Malaysia",21 min 43 s,- 19 s,34%,58 hours
+140,140,"Tallinn
+Estonia",21 min 42 s,+ 9 s,34%,79 hours
+141,141,"Istanbul
+Turkey",21 min 38 s,+ 19 s,41%,93 hours
+142,142,"Turku
+Finland",21 min 38 s,+ 9 s,26%,52 hours
+143,143,"Trieste
+Italy",21 min 35 s,- 19 s,40%,61 hours
+144,144,"Melbourne
+Australia",21 min 34 s,+ 19 s,34%,81 hours
+145,145,"Khon Kaen
+Thailand",21 min 32 s,no change,34%,64 hours
+146,146,"Swansea
+United Kingdom",21 min 31 s,+ 19 s,37%,72 hours
+147,147,"Hull
+United Kingdom",21 min 31 s,+ 9 s,46%,93 hours
+148,148,"Adelaide
+Australia",21 min 29 s,+ 9 s,35%,82 hours
+149,149,"Montreal
+Canada",21 min 23 s,+ 48 s,28%,67 hours
+150,150,"Alexandria
+Egypt",21 min 23 s,- 28 s,17%,34 hours
+151,151,"Izmir
+Turkey",21 min 22 s,- 9 s,41%,90 hours
+152,152,"Bradford
+United Kingdom",21 min 22 s,+ 28 s,35%,77 hours
+153,153,"Aarhus
+Denmark",21 min 21 s,+ 28 s,30%,65 hours
+154,154,"Mersin
+Turkey",21 min 12 s,- 9 s,35%,56 hours
+155,155,"Odense
+Denmark",21 min 10 s,+ 9 s,27%,57 hours
+156,156,"Dresden
+Germany",21 min 8 s,+ 19 s,35%,64 hours
+157,157,"Cologne
+Germany",21 min 8 s,+ 38 s,29%,60 hours
+158,158,"Gijon
+Spain",21 min 7 s,- 9 s,18%,34 hours
+159,159,"Valletta
+Malta",21 min 6 s,- 9 s,38%,82 hours
+160,160,"Pamplona
+Spain",21 min 6 s,- 1 min 17 s,19%,39 hours
+161,161,"Bangkok
+Thailand",21 min 5 s,+ 19 s,50%,93 hours
+162,162,"Cork
+Ireland",21 min 5 s,no change,41%,85 hours
+163,163,"Christchurch
+New Zealand",21 min 5 s,+ 19 s,32%,74 hours
+164,164,"Ipoh
+Malaysia",21 min 3 s,+ 9 s,26%,49 hours
+165,165,"Seville
+Spain",21 min 1 s,no change,20%,52 hours
+166,166,"Lublin
+Poland",21 min,no change,38%,85 hours
+167,167,"Nancy
+France",20 min 59 s,+ 28 s,26%,61 hours
+168,168,"Aberdeen
+United Kingdom",20 min 52 s,- 9 s,37%,65 hours
+169,169,"Hannover
+Germany",20 min 52 s,+ 28 s,34%,67 hours
+170,170,"Aalborg
+Denmark",20 min 51 s,no change,27%,60 hours
+171,171,"Malmo
+Sweden",20 min 50 s,+ 19 s,20%,47 hours
+172,172,"Palermo
+Italy",20 min 48 s,- 19 s,41%,82 hours
+173,173,"Rouen
+France",20 min 46 s,+ 19 s,31%,76 hours
+174,174,"Mannheim
+Germany",20 min 46 s,+ 19 s,26%,50 hours
+175,175,"Rio de Janeiro
+Brazil",20 min 42 s,- 28 s,39%,76 hours
+176,176,"Wellington
+New Zealand",20 min 36 s,+ 9 s,29%,67 hours
+177,177,"Coventry
+United Kingdom",20 min 35 s,+ 9 s,33%,68 hours
+178,178,"Cardiff
+United Kingdom",20 min 35 s,+ 19 s,31%,58 hours
+179,179,"Munster
+Germany",20 min 31 s,+ 38 s,34%,55 hours
+180,180,"Lausanne
+Switzerland",20 min 29 s,+ 19 s,28%,68 hours
+181,181,"Zaragoza
+Spain",20 min 21 s,+ 28 s,21%,36 hours
+182,182,"Brno
+Czechia",20 min 19 s,+ 48 s,46%,89 hours
+183,183,"Bloemfontein
+South Africa",20 min 16 s,- 9 s,27%,49 hours
+184,184,"Nakhon Ratchasima
+Thailand",20 min 13 s,no change,33%,63 hours
+185,185,"Kaunas
+Lithuania",20 min 9 s,+ 9 s,35%,69 hours
+186,186,"Gold Coast
+Australia",20 min 9 s,+ 19 s,33%,58 hours
+187,187,"Vigo
+Spain",20 min 9 s,+ 19 s,18%,35 hours
+188,188,"Naples
+Italy",20 min 7 s,- 9 s,36%,80 hours
+189,189,"Birmingham
+United Kingdom",20 min 6 s,+ 38 s,38%,86 hours
+190,190,"Orleans
+France",20 min 6 s,+ 9 s,27%,63 hours
+191,191,"Cairo
+Egypt",20 min 1 s,- 1 min 7 s,18%,41 hours
+192,192,"Genoa
+Italy",20 min,+ 19 s,30%,62 hours
+193,193,"Cambridge
+United Kingdom",19 min 58 s,+ 19 s,36%,78 hours
+194,194,"Abu Dhabi
+United Arab Emirates",19 min 58 s,- 9 s,21%,37 hours
+195,195,"Honolulu, HI
+United States of America",19 min 56 s,+ 9 s,34%,71 hours
+196,196,"Reading
+United Kingdom",19 min 50 s,+ 28 s,37%,71 hours
+197,197,"Messina
+Italy",19 min 50 s,- 19 s,32%,61 hours
+198,198,"Southampton
+United Kingdom",19 min 48 s,+ 1 min 26 s,38%,74 hours
+199,199,"Belfast
+United Kingdom",19 min 43 s,+ 38 s,45%,85 hours
+200,200,"Dunedin
+New Zealand",19 min 41 s,+ 9 s,26%,47 hours
+201,201,"Leeds
+United Kingdom",19 min 40 s,+ 19 s,27%,55 hours
+202,202,"London
+Canada",19 min 39 s,+ 28 s,28%,58 hours
+203,203,"Keelung
+Taiwan",19 min 39 s,+ 19 s,23%,44 hours
+204,204,"Kassel
+Germany",19 min 38 s,no change,36%,62 hours
+205,205,"Hsinchu
+Taiwan",19 min 36 s,+ 28 s,33%,69 hours
+206,206,"Singapore
+Singapore",19 min 34 s,+ 9 s,29%,61 hours
+207,207,"Alicante
+Spain",19 min 34 s,no change,18%,36 hours
+208,208,"Ankara
+Turkey",19 min 33 s,+ 9 s,40%,88 hours
+209,209,"Taoyuan
+Taiwan",19 min 33 s,+ 19 s,32%,71 hours
+210,210,"Adana
+Turkey",19 min 32 s,- 9 s,34%,58 hours
+211,211,"Nijmegen
+Netherlands",19 min 27 s,no change,27%,50 hours
+212,212,"Malaga
+Spain",19 min 25 s,+ 9 s,21%,44 hours
+213,213,"Valladolid
+Spain",19 min 23 s,+ 28 s,18%,52 hours
+214,214,"Reykjavík
+Iceland",19 min 18 s,+ 9 s,27%,68 hours
+215,215,"Johor Bahru
+Malaysia",19 min 16 s,no change,24%,47 hours
+216,216,"Porto
+Portugal",19 min 15 s,+ 19 s,34%,88 hours
+217,217,"Doha
+Qatar",19 min 15 s,- 9 s,19%,33 hours
+218,218,"Chicago, IL
+United States of America",19 min 10 s,+ 38 s,31%,63 hours
+219,219,"Brest
+France",19 min 8 s,+ 19 s,32%,62 hours
+220,220,"Edmonton
+Canada",19 min 8 s,+ 28 s,21%,49 hours
+221,221,"Cartagena
+Spain",19 min 4 s,no change,20%,34 hours
+222,222,"Klaipeda
+Lithuania",19 min 3 s,- 28 s,27%,59 hours
+223,223,"Brighton and Hove
+United Kingdom",19 min 2 s,+ 9 s,35%,65 hours
+224,224,"Kobe
+Japan",19 min,no change,31%,49 hours
+225,225,"Wiesbaden
+Germany",18 min 57 s,- 1 min 7 s,31%,54 hours
+226,226,"Salto
+Uruguay",18 min 56 s,+ 38 s,10%,18 hours
+227,227,"Bursa
+Turkey",18 min 55 s,- 9 s,31%,64 hours
+228,228,"Avignon
+France",18 min 54 s,no change,32%,65 hours
+229,229,"Gaborone
+Botswana",18 min 54 s,no change,32%,66 hours
+230,230,"Philadelphia, PA
+United States of America",18 min 54 s,+ 38 s,22%,44 hours
+231,231,"Reims
+France",18 min 53 s,+ 28 s,27%,52 hours
+232,232,"Tijuana
+Mexico",18 min 52 s,+ 19 s,33%,55 hours
+233,233,"Bialystok
+Poland",18 min 45 s,no change,31%,58 hours
+234,234,"A Coruna
+Spain",18 min 45 s,+ 19 s,19%,39 hours
+235,235,"Brisbane
+Australia",18 min 44 s,+ 9 s,29%,68 hours
+236,236,"Bielefeld
+Germany",18 min 43 s,+ 28 s,34%,53 hours
+237,237,"New Haven, CT
+United States of America",18 min 38 s,+ 19 s,24%,46 hours
+238,238,"Stockholm Metropolitan Area
+Sweden",18 min 37 s,+ 19 s,27%,67 hours
+239,239,"Giza
+Egypt",18 min 37 s,- 1 min 17 s,15%,32 hours
+240,240,"Uppsala
+Sweden",18 min 35 s,+ 9 s,20%,42 hours
+241,241,"Ecatepec
+Mexico",18 min 34 s,+ 38 s,28%,43 hours
+242,242,"Ghent
+Belgium",18 min 33 s,+ 28 s,26%,52 hours
+243,243,"Oslo
+Norway",18 min 33 s,+ 19 s,24%,61 hours
+244,244,"Hamilton
+New Zealand",18 min 31 s,+ 9 s,26%,53 hours
+245,245,"Freiburg
+Germany",18 min 30 s,+ 19 s,28%,45 hours
+246,246,"Durban
+South Africa",18 min 28 s,+ 28 s,36%,55 hours
+247,247,"Newcastle
+Australia",18 min 25 s,+ 9 s,27%,50 hours
+248,248,"Columbia, SC
+United States of America",18 min 25 s,+ 9 s,23%,41 hours
+249,249,"Dortmund
+Germany",18 min 21 s,+ 19 s,28%,45 hours
+250,250,"Salvador
+Brazil",18 min 20 s,+ 9 s,37%,68 hours
+251,251,"Auckland
+New Zealand",18 min 19 s,+ 9 s,31%,70 hours
+252,252,"Bournemouth
+United Kingdom",18 min 16 s,+ 9 s,32%,57 hours
+253,253,"Yokohama
+Japan",18 min 16 s,+ 9 s,28%,46 hours
+254,254,"Preston
+United Kingdom",18 min 15 s,+ 19 s,34%,58 hours
+255,255,"Monchengladbach
+Germany",18 min 15 s,+ 28 s,25%,39 hours
+256,256,"Tartu
+Estonia",18 min 12 s,no change,23%,38 hours
+257,257,"Las Palmas
+Spain",18 min 11 s,+ 19 s,24%,43 hours
+258,258,"Dundee
+United Kingdom",18 min 6 s,+ 9 s,35%,52 hours
+259,259,"The Hague
+Netherlands",18 min 5 s,+ 28 s,31%,52 hours
+260,260,"Santander
+Spain",18 min 5 s,no change,20%,34 hours
+261,261,"Bremen
+Germany",18 min 2 s,no change,35%,55 hours
+262,262,"Sharjah
+United Arab Emirates",18 min 1 s,+ 1 min 7 s,29%,58 hours
+263,263,"Augsburg
+Germany",18 min,+ 19 s,29%,49 hours
+264,264,"Johannesburg
+South Africa",17 min 59 s,+ 9 s,32%,54 hours
+265,265,"Konya
+Turkey",17 min 58 s,- 19 s,28%,48 hours
+266,266,"Burgas
+Bulgaria",17 min 57 s,- 9 s,32%,52 hours
+267,267,"Washington, DC
+United States of America",17 min 56 s,+ 28 s,25%,57 hours
+268,268,"Plymouth
+United Kingdom",17 min 52 s,no change,31%,54 hours
+269,269,"Pescara
+Italy",17 min 49 s,+ 9 s,25%,46 hours
+270,270,"Monterrey
+Mexico",17 min 43 s,+ 1 min 7 s,37%,77 hours
+271,271,"New Orleans, LA
+United States of America",17 min 37 s,+ 38 s,26%,49 hours
+272,272,"Limerick
+Ireland",17 min 35 s,+ 19 s,39%,63 hours
+273,273,"Calgary
+Canada",17 min 33 s,+ 38 s,23%,47 hours
+274,274,"Dubai
+United Arab Emirates",17 min 25 s,+ 1 min 7 s,25%,44 hours
+275,275,"Lille
+France",17 min 24 s,no change,27%,59 hours
+276,276,"Kayseri
+Turkey",17 min 24 s,- 9 s,24%,35 hours
+277,277,"Strasbourg
+France",17 min 15 s,+ 9 s,26%,51 hours
+278,278,"Basel
+Switzerland",17 min 13 s,+ 28 s,28%,47 hours
+279,279,"Granada
+Spain",17 min 12 s,+ 9 s,22%,41 hours
+280,280,"Al Ain
+United Arab Emirates",17 min 7 s,+ 28 s,12%,21 hours
+281,281,"Miami, FL
+United States of America",17 min 3 s,+ 28 s,33%,60 hours
+282,282,"Tampere
+Finland",17 min 1 s,- 9 s,20%,32 hours
+283,283,"Kiel
+Germany",16 min 59 s,+ 57 s,35%,51 hours
+284,284,"Toulon
+France",16 min 56 s,+ 9 s,31%,62 hours
+285,285,"Kuala Lumpur
+Malaysia",16 min 50 s,- 9 s,28%,66 hours
+286,286,"Coimbra
+Portugal",16 min 50 s,+ 19 s,23%,50 hours
+287,287,"Funchal
+Portugal",16 min 50 s,+ 9 s,22%,50 hours
+288,288,"Inverness
+United Kingdom",16 min 42 s,+ 9 s,30%,43 hours
+289,289,"Hobart
+Australia",16 min 41 s,+ 9 s,25%,50 hours
+290,290,"Murcia
+Spain",16 min 40 s,+ 9 s,21%,42 hours
+291,291,"Montpellier
+France",16 min 39 s,+ 19 s,30%,60 hours
+292,292,"Haarlem
+Netherlands",16 min 39 s,+ 9 s,29%,47 hours
+293,293,"Cadiz
+Spain",16 min 37 s,+ 9 s,14%,25 hours
+294,294,"Manama
+Bahrain",16 min 33 s,- 1 min 17 s,21%,33 hours
+295,295,"Anchorage, AK
+United States of America",16 min 32 s,- 9 s,21%,33 hours
+296,296,"Livorno
+Italy",16 min 31 s,no change,24%,37 hours
+297,297,"Ljubljana
+Slovenia",16 min 30 s,+ 9 s,33%,58 hours
+298,298,"Bielsko-Biala
+Poland",16 min 29 s,+ 9 s,29%,50 hours
+299,299,"Palma de Mallorca
+Spain",16 min 29 s,no change,25%,48 hours
+300,300,"Santa Cruz de Tenerife
+Spain",16 min 29 s,+ 9 s,25%,40 hours
+301,301,"Maipu
+Chile",16 min 26 s,- 19 s,26%,57 hours
+302,302,"Stoke-on-Trent
+United Kingdom",16 min 25 s,+ 28 s,33%,57 hours
+303,303,"Bari
+Italy",16 min 25 s,- 9 s,28%,52 hours
+304,304,"Braga
+Portugal",16 min 25 s,no change,25%,57 hours
+305,305,"Norwich
+United Kingdom",16 min 24 s,+ 9 s,36%,58 hours
+306,306,"Antwerp
+Belgium",16 min 21 s,+ 28 s,40%,65 hours
+307,307,"Ottawa
+Canada",16 min 21 s,+ 19 s,26%,53 hours
+308,308,"Taif
+Saudi Arabia",16 min 20 s,- 19 s,9%,16 hours
+309,309,"Bologna
+Italy",16 min 19 s,+ 57 s,33%,62 hours
+310,310,"Seattle, WA
+United States of America",16 min 19 s,+ 28 s,31%,51 hours
+311,311,"Clermont-Ferrand
+France",16 min 19 s,+ 19 s,31%,51 hours
+312,312,"Cordoba
+Spain",16 min 19 s,+ 9 s,16%,26 hours
+313,313,"Boston, MA
+United States of America",16 min 16 s,+ 19 s,30%,59 hours
+314,314,"Le Mans
+France",16 min 14 s,no change,29%,46 hours
+315,315,"Apeldoorn
+Netherlands",16 min 13 s,no change,32%,45 hours
+316,316,"Bilbao
+Spain",16 min 13 s,- 9 s,15%,24 hours
+317,317,"Hamilton
+Canada",16 min 11 s,+ 38 s,21%,38 hours
+318,318,"Cagliari
+Italy",16 min 10 s,no change,24%,40 hours
+319,319,"Portsmouth
+United Kingdom",16 min 9 s,+ 28 s,35%,51 hours
+320,320,"Toulouse
+France",16 min 7 s,+ 9 s,27%,63 hours
+321,321,"Oviedo
+Spain",16 min 7 s,- 28 s,22%,32 hours
+322,322,"Gothenburg
+Sweden",16 min 7 s,- 9 s,21%,48 hours
+323,323,"Helsingborg
+Sweden",16 min 7 s,- 19 s,19%,29 hours
+324,324,"Medina
+Saudi Arabia",16 min 6 s,+ 19 s,28%,56 hours
+325,325,"Riyadh
+Saudi Arabia",16 min 6 s,+ 19 s,28%,56 hours
+326,326,"Quebec
+Canada",16 min 6 s,+ 19 s,25%,47 hours
+327,327,"Perth
+Australia",15 min 54 s,+ 19 s,25%,53 hours
+328,328,"Ras Al Khaimah
+United Arab Emirates",15 min 54 s,+ 9 s,12%,16 hours
+329,329,"Los Angeles, CA
+United States of America",15 min 53 s,+ 19 s,43%,71 hours
+330,330,"Boise, ID
+United States of America",15 min 53 s,+ 9 s,26%,36 hours
+331,331,"Waterloo
+Canada",15 min 53 s,+ 19 s,19%,30 hours
+332,332,"Metz
+France",15 min 52 s,- 9 s,26%,42 hours
+333,333,"Kosice
+Slovakia",15 min 48 s,+ 19 s,32%,53 hours
+334,334,"Bratislava
+Slovakia",15 min 45 s,+ 19 s,32%,57 hours
+335,335,"Groningen
+Netherlands",15 min 44 s,+ 19 s,32%,42 hours
+336,336,"Dijon
+France",15 min 42 s,+ 9 s,29%,49 hours
+337,337,"Modena
+Italy",15 min 40 s,no change,24%,39 hours
+338,338,"Brasilia
+Brazil",15 min 38 s,+ 9 s,25%,45 hours
+339,339,"Linz
+Austria",15 min 36 s,- 19 s,24%,42 hours
+340,340,"San Sebastian
+Spain",15 min 36 s,+ 9 s,18%,27 hours
+341,341,"Reggio Calabria
+Italy",15 min 34 s,+ 9 s,26%,41 hours
+342,342,"Rotterdam
+Netherlands",15 min 32 s,+ 28 s,30%,50 hours
+343,343,"Allentown, PA
+United States of America",15 min 32 s,+ 19 s,22%,33 hours
+344,344,"Ar-Rayyan
+Qatar",15 min 29 s,- 19 s,17%,25 hours
+345,345,"Port Louis
+Mauritius",15 min 26 s,- 3 min 32 s,39%,63 hours
+346,346,"Tauranga
+New Zealand",15 min 26 s,- 19 s,30%,48 hours
+347,347,"Pittsburgh, PA
+United States of America",15 min 23 s,+ 19 s,28%,49 hours
+348,348,"Dammam
+Saudi Arabia",15 min 23 s,- 9 s,18%,34 hours
+349,349,"Liege
+Belgium",15 min 22 s,+ 19 s,26%,44 hours
+350,350,"Ajman
+United Arab Emirates",15 min 20 s,+ 38 s,19%,31 hours
+351,351,"Canberra
+Australia",15 min 17 s,no change,22%,42 hours
+352,352,"Fujairah
+United Arab Emirates",15 min 13 s,no change,12%,14 hours
+353,353,"Maribor
+Slovenia",15 min 11 s,no change,24%,37 hours
+354,354,"Essen
+Germany",15 min 10 s,+ 28 s,36%,54 hours
+355,355,"Baltimore, MD
+United States of America",15 min 6 s,+ 57 s,22%,42 hours
+356,356,"Lugano
+Switzerland",15 min 5 s,- 9 s,31%,58 hours
+357,357,"Faro
+Portugal",15 min 4 s,+ 19 s,19%,36 hours
+358,358,"Bonn
+Germany",15 min 3 s,+ 38 s,32%,47 hours
+359,359,"Stavanger
+Norway",15 min 3 s,+ 9 s,18%,37 hours
+360,360,"Charleston, SC
+United States of America",15 min 1 s,+ 19 s,26%,37 hours
+361,361,"Parma
+Italy",14 min 58 s,+ 9 s,24%,38 hours
+362,362,"Angers
+France",14 min 58 s,+ 9 s,23%,38 hours
+363,363,"Trondheim
+Norway",14 min 57 s,- 9 s,16%,32 hours
+364,364,"Las Vegas, NV
+United States of America",14 min 56 s,no change,23%,35 hours
+365,365,"Exeter
+United Kingdom",14 min 54 s,+ 19 s,37%,54 hours
+366,366,"Newcastle-Sunderland
+United Kingdom",14 min 53 s,no change,20%,26 hours
+367,367,"Aachen
+Germany",14 min 52 s,- 38 s,31%,44 hours
+368,368,"Taranto
+Italy",14 min 48 s,- 19 s,21%,33 hours
+369,369,"Verona
+Italy",14 min 45 s,+ 19 s,31%,43 hours
+370,370,"Karlsruhe
+Germany",14 min 43 s,- 9 s,25%,38 hours
+371,371,"McAllen, TX
+United States of America",14 min 38 s,- 9 s,25%,34 hours
+372,372,"Oxnard, CA
+United States of America",14 min 33 s,+ 19 s,28%,35 hours
+373,373,"Kuwait CIty
+Kuwait",14 min 30 s,- 9 s,24%,33 hours
+374,374,"Grenoble
+France",14 min 22 s,+ 9 s,31%,52 hours
+375,375,"Ravenna
+Italy",14 min 21 s,+ 19 s,24%,38 hours
+376,376,"Oxford
+United Kingdom",14 min 20 s,+ 9 s,38%,59 hours
+377,377,"Luxembourg
+Luxembourg",14 min 20 s,no change,33%,50 hours
+378,378,"Kitchener
+Canada",14 min 19 s,+ 19 s,18%,25 hours
+379,379,"Saint-Etienne
+France",14 min 17 s,+ 9 s,24%,38 hours
+380,380,"Greenville, GA
+United States of America",14 min 11 s,+ 9 s,25%,34 hours
+381,381,"Tours
+France",14 min 11 s,+ 19 s,23%,38 hours
+382,382,"Eindhoven
+Netherlands",14 min 6 s,+ 19 s,29%,45 hours
+383,383,"Jeddah
+Saudi Arabia",14 min 4 s,no change,14%,25 hours
+384,384,"Breda
+Netherlands",14 min 2 s,+ 19 s,25%,37 hours
+385,385,"Seberang Perai
+Malaysia",14 min,no change,28%,47 hours
+386,386,"Utrecht
+Netherlands",13 min 56 s,+ 28 s,29%,41 hours
+387,387,"Denver, CO
+United States of America",13 min 56 s,+ 9 s,27%,43 hours
+388,388,"Buraydah
+Saudi Arabia",13 min 56 s,- 9 s,10%,12 hours
+389,389,"Darwin
+Australia",13 min 55 s,+ 9 s,16%,27 hours
+390,390,"Portland, OR
+United States of America",13 min 52 s,+ 9 s,28%,45 hours
+391,391,"Kocaeli
+Turkey",13 min 52 s,+ 9 s,27%,46 hours
+392,392,"Providence, RI
+United States of America",13 min 49 s,+ 1 min 7 s,31%,51 hours
+393,393,"Innsbruck
+Austria",13 min 49 s,+ 19 s,23%,29 hours
+394,394,"Nashville, TN
+United States of America",13 min 47 s,+ 19 s,26%,42 hours
+395,395,"Charleroi
+Belgium",13 min 42 s,+ 19 s,21%,30 hours
+396,396,"Katowice
+Poland",13 min 41 s,+ 28 s,29%,42 hours
+397,397,"Buffalo, NY
+United States of America",13 min 40 s,+ 9 s,15%,20 hours
+398,398,"Prato
+Italy",13 min 37 s,+ 9 s,30%,48 hours
+399,399,"Da Nang
+Vietnam",13 min 37 s,+ 48 s,11%,16 hours
+400,400,"Al Ahsa
+Saudi Arabia",13 min 36 s,no change,9%,12 hours
+401,401,"Syracuse, NY
+United States of America",13 min 35 s,+ 9 s,13%,16 hours
+402,402,"Reggio Emilia
+Italy",13 min 29 s,+ 9 s,27%,43 hours
+403,403,"Khor Fakkan
+United Arab Emirates",13 min 28 s,- 9 s,9%,10 hours
+404,404,"Milwaukee, WI
+United States of America",13 min 26 s,+ 9 s,18%,29 hours
+405,405,"Cape Coral, FL
+United States of America",13 min 22 s,+ 9 s,29%,37 hours
+406,406,"Austin, TX
+United States of America",13 min 21 s,+ 9 s,27%,43 hours
+407,407,"Tampa, FL
+United States of America",13 min 17 s,+ 19 s,32%,49 hours
+408,408,"Bern
+Switzerland",13 min 17 s,- 9 s,22%,35 hours
+409,409,"Arnhem
+Netherlands",13 min 10 s,+ 9 s,28%,42 hours
+410,410,"Rennes
+France",13 min 6 s,+ 19 s,29%,55 hours
+411,411,"Ostrava
+Czechia",13 min 6 s,+ 28 s,21%,30 hours
+412,412,"Dallas, TX
+United States of America",13 min,+ 9 s,30%,46 hours
+413,413,"Wollongong
+Australia",12 min 57 s,+ 9 s,21%,29 hours
+414,414,"Bruges
+Belgium",12 min 55 s,no change,22%,28 hours
+415,415,"Tilburg
+Netherlands",12 min 54 s,+ 9 s,24%,32 hours
+416,416,"Bochum
+Germany",12 min 53 s,+ 48 s,32%,44 hours
+417,417,"Bayonne
+France",12 min 53 s,+ 9 s,29%,42 hours
+418,418,"Namur
+Belgium",12 min 53 s,+ 9 s,25%,33 hours
+419,419,"Ipswich
+United Kingdom",12 min 49 s,+ 9 s,29%,37 hours
+420,420,"Atlanta, GA
+United States of America",12 min 45 s,+ 19 s,31%,48 hours
+421,421,"Klang
+Malaysia",12 min 41 s,- 9 s,17%,26 hours
+422,422,"Portland, ME
+United States of America",12 min 39 s,+ 19 s,21%,25 hours
+423,423,"Kortrijk
+Belgium",12 min 38 s,+ 19 s,28%,41 hours
+424,424,"Padua
+Italy",12 min 36 s,+ 19 s,23%,35 hours
+425,425,"Bergen
+Norway",12 min 35 s,+ 19 s,14%,26 hours
+426,426,"Leuven
+Belgium",12 min 34 s,+ 19 s,24%,36 hours
+427,427,"Leiden
+Netherlands",12 min 33 s,- 38 s,26%,32 hours
+428,428,"Hawalli
+Kuwait",12 min 30 s,no change,21%,34 hours
+429,429,"Rochester, NY
+United States of America",12 min 29 s,+ 9 s,17%,19 hours
+430,430,"Fort Myers, FL
+United States of America",12 min 25 s,+ 9 s,32%,39 hours
+431,431,"Hartford, NY
+United States of America",12 min 25 s,no change,13%,14 hours
+432,432,"Houston, TX
+United States of America",12 min 22 s,+ 9 s,31%,47 hours
+433,433,"Minneapolis, MN
+United States of America",12 min 22 s,+ 9 s,19%,28 hours
+434,434,"Brescia
+Italy",12 min 18 s,+ 19 s,24%,33 hours
+435,435,"Charlotte, NC
+United States of America",12 min 17 s,+ 9 s,25%,39 hours
+436,436,"Tucson, AZ
+United States of America",12 min 10 s,no change,22%,25 hours
+437,437,"Kajang
+Malaysia",12 min 7 s,+ 9 s,23%,40 hours
+438,438,"Indianapolis, IN
+United States of America",12 min 6 s,no change,18%,29 hours
+439,439,"Albany, NY
+United States of America",11 min 56 s,+ 9 s,19%,20 hours
+440,440,"Wuppertal
+Germany",11 min 55 s,+ 9 s,32%,36 hours
+441,441,"El Paso, NM
+United States of America",11 min 51 s,+ 19 s,18%,20 hours
+442,442,"Baton Rouge, LA
+United States of America",11 min 47 s,+ 19 s,29%,36 hours
+443,443,"San Jose, CA
+United States of America",11 min 45 s,+ 9 s,29%,41 hours
+444,444,"Laqţah
+Qatar",11 min 42 s,- 19 s,9%,11 hours
+445,445,"Greensboro, NC
+United States of America",11 min 37 s,no change,15%,17 hours
+446,446,"Worcester, MA
+United States of America",11 min 35 s,+ 9 s,25%,31 hours
+447,447,"Lens
+France",11 min 30 s,no change,17%,22 hours
+448,448,"Long Beach, CA
+United States of America",11 min 27 s,+ 9 s,29%,34 hours
+449,449,"Mons
+Belgium",11 min 27 s,+ 9 s,22%,28 hours
+450,450,"Cleveland, OH
+United States of America",11 min 26 s,+ 9 s,15%,17 hours
+451,451,"Saint Louis, MO
+United States of America",11 min 25 s,no change,16%,20 hours
+452,452,"Colorado Springs, CO
+United States of America",11 min 24 s,no change,20%,22 hours
+453,453,"Orlando, FL
+United States of America",11 min 20 s,+ 9 s,23%,27 hours
+454,454,"San Diego, CA
+United States of America",11 min 18 s,+ 9 s,24%,32 hours
+455,455,"Cincinnati, KY
+United States of America",11 min 7 s,+ 19 s,17%,21 hours
+456,456,"Zwolle
+Netherlands",11 min 1 s,+ 9 s,23%,25 hours
+457,457,"Columbus, OH
+United States of America",11 min,+ 9 s,17%,20 hours
+458,458,"Anaheim, CA
+United States of America",10 min 55 s,+ 9 s,26%,33 hours
+459,459,"Duisburg
+Germany",10 min 53 s,- 19 s,32%,36 hours
+460,460,"Al Baha
+Saudi Arabia",10 min 53 s,- 9 s,7%,7 hours
+461,461,"Detroit, MI
+United States of America",10 min 49 s,+ 9 s,17%,20 hours
+462,462,"Bakersfield, CA
+United States of America",10 min 46 s,- 28 s,22%,21 hours
+463,463,"Virginia Beach, VA
+United States of America",10 min 45 s,no change,16%,16 hours
+464,464,"Kansas City, MO
+United States of America",10 min 37 s,no change,14%,15 hours
+465,465,"Louisville, KY
+United States of America",10 min 36 s,no change,23%,23 hours
+466,466,"Grand Rapids, MI
+United States of America",10 min 34 s,+ 19 s,17%,19 hours
+467,467,"Salt Lake City, UT
+United States of America",10 min 33 s,no change,18%,21 hours
+468,468,"Birmingham, AL
+United States of America",10 min 25 s,no change,19%,24 hours
+469,469,"Raleigh, NC
+United States of America",10 min 24 s,+ 9 s,18%,23 hours
+470,470,"Phoenix, AZ
+United States of America",10 min 23 s,+ 9 s,24%,31 hours
+471,471,"Den Bosch
+Netherlands",10 min 22 s,+ 19 s,29%,36 hours
+472,472,"Jacksonville, FL
+United States of America",10 min 20 s,+ 9 s,20%,25 hours
+473,473,"Fort Worth, TX
+United States of America",10 min 17 s,no change,22%,26 hours
+474,474,"Sacramento, CA
+United States of America",10 min 17 s,+ 9 s,24%,29 hours
+475,475,"Memphis, AR
+United States of America",10 min 15 s,no change,14%,14 hours
+476,476,"Wichita, KS
+United States of America",10 min 14 s,no change,13%,12 hours
+477,477,"Omaha, NE
+United States of America",10 min 14 s,no change,12%,14 hours
+478,478,"Middlesbrough
+United Kingdom",10 min 13 s,+ 9 s,25%,29 hours
+479,479,"Albuquerque, NM
+United States of America",10 min 12 s,+ 9 s,19%,22 hours
+480,480,"Akron, OH
+United States of America",10 min 8 s,+ 9 s,12%,13 hours
+481,481,"Almere
+Netherlands",10 min 3 s,no change,14%,14 hours
+482,482,"Knoxville, TN
+United States of America",9 min 57 s,+ 9 s,17%,19 hours
+483,483,"Riverside, CA
+United States of America",9 min 55 s,+ 9 s,31%,34 hours
+484,484,"Dayton, OH
+United States of America",9 min 53 s,+ 9 s,12%,12 hours
+485,485,"Council Bluffs, IA
+United States of America",9 min 52 s,no change,11%,12 hours
+486,486,"San Antonio, TX
+United States of America",9 min 51 s,no change,18%,25 hours
+487,487,"Tulsa, OK
+United States of America",9 min 51 s,- 9 s,13%,13 hours
+488,488,"Espoo
+Finland",9 min 51 s,+ 9 s,12%,12 hours
+489,489,"Fresno, CA
+United States of America",9 min 50 s,no change,20%,20 hours
+490,490,"Winston-Salem, NC
+United States of America",9 min 47 s,+ 9 s,14%,14 hours
+491,491,"Sabah Al Salem
+Kuwait",9 min 47 s,+ 9 s,13%,15 hours
+492,492,"High Point, NC
+United States of America",9 min 44 s,no change,15%,13 hours
+493,493,"Ventura, CA
+United States of America",9 min 43 s,+ 9 s,23%,20 hours
+494,494,"Oklahoma City, OK
+United States of America",9 min 39 s,no change,16%,18 hours
+495,495,"Richmond, VA
+United States of America",9 min 33 s,no change,12%,16 hours
+496,496,"Newark, DE
+United States of America",9 min 28 s,+ 9 s,21%,19 hours
+497,497,"Amersfoort
+Netherlands",9 min 27 s,+ 9 s,22%,24 hours
+498,498,"Mesa, AZ
+United States of America",9 min 19 s,no change,16%,17 hours
+499,499,"Little Rock, AR
+United States of America",9 min,no change,13%,15 hours
+500,500,"Thousand Oaks, CA
+United States of America",8 min 18 s,no change,18%,15 hours
