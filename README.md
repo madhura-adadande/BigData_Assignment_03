@@ -9,49 +9,7 @@ The **Traffic Congestion Index** from TomTom offers valuable real-time insights 
 
 However, efficiently obtaining, processing, and analyzing this data in an automated and scalable way presents several challenges — especially since the data is typically updated daily. In our case, the dataset is **static**, so it **cannot be incremented automatically**.
 
----
-Assignment3Part2/
-├── README.md                         # Project overview, instructions, architecture diagram
-├── AiUseDisclosure.md               # Disclosure of any AI tools used
-├── Assignment 3-Part 2 Spring 2025.pdf  # Original assignment spec
-├── architecture/
-│   └── traffic_pipeline_arch.png    # Architecture diagram (visual workflow)
-│
-├── snowflake_notebooks/             # Snowflake notebook scripts for Snowpark
-│   ├── data_ingestion.ipynb         # Notebook to ingest TomTom data into Snowflake
-│   └── analytics_exploration.ipynb  # Notebook for analytics on congestion index
-│
-├── snowpark_code/                   # Snowpark Python scripts
-│   ├── load_raw.py                  # Load raw CSV/JSON data from S3
-│   ├── harmonize.py                 # Harmonize and clean raw data
-│   ├── transformation.py           # Data transformation logic
-│   └── tom_extraction.py            # Data scraping logic (optional if scraped externally)
-│
-├── sql/
-│   ├── setup_snowflake.sql         # Initial setup: roles, schemas, warehouses
-│   └── analytics_queries.sql       # SQL for generating daily/weekly metrics
-│
-├── udfs/
-│   ├── normalize_congestion.sql    # SQL UDFs for normalization logic
-│   └── validate_data.py            # Python UDFs for data validation
-│
-├── scripts/
-│   ├── dev_setup.jinja             # Jinja script for DEV environment
-│   └── prod_setup.jinja            # Jinja script for PROD environment
-│
-├── tests/
-│   ├── test_udfs.py                # Unit tests for UDFs
-│   ├── test_transformations.py     # Unit tests for transformation logic
-│   └── sample_data/                # Sample data for validation
-│       └── traffic_sample.csv
-│
-├── .github/
-│   └── workflows/
-│       └── ci_cd.yml               # GitHub Actions workflow for CI/CD deployment
-│
-└── venv/                           
 
----
 
 ## 🚀 Technologies Used
 
