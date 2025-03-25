@@ -101,6 +101,10 @@ A **CI/CD pipeline** ensures automated testing and deployment of Snowpark Python
 
 ---
 
-
-
+## Contributions
+- Vemana Anil Kumar - 33.3%
+- Ashwin Badamikar - 33.3%
+- Madhura Adadande - 33.3%
+  
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
