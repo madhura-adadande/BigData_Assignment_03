@@ -29,8 +29,8 @@ However, efficiently obtaining, processing, and analyzing this data in an automa
 
 ## 🧱 Architectural Diagram
 
-![Architecture_dia_3](https://github.com/user-attachments/assets/94bfb178-a6c6-4170-b077-6b8af56c5818)
-)
+![tomtom_traffic_data_pipeline](https://github.com/user-attachments/assets/dd9ce723-1cd2-4434-b532-870daaa1132c)
+
 
 <!-- Replace with the correct relative path or upload the image to GitHub -->
 
