@@ -24,7 +24,7 @@ However, efficiently obtaining, processing, and analyzing this data in an automa
 
 - **GitHub**  
   Employed for version control, task management, and team collaboration. GitHub helps maintain an organized workflow for smooth team cooperation.
-
+ 
 ---
 
 ## 🧱 Architectural Diagram
@@ -35,6 +35,9 @@ However, efficiently obtaining, processing, and analyzing this data in an automa
 <!-- Replace with the correct relative path or upload the image to GitHub -->
 
 ---
+## Documentation Link:
+
+Code Labs link: https://codelabs-preview.appspot.com/?file_id=1AOCZT9r_Cv26RxldcowKgCyOIw898YyGi75vTXYBCMY#9
 
 ## 🔄 Walkthrough of the Application
 
